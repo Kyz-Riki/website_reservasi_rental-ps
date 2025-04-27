@@ -140,7 +140,7 @@
     <div class="container">
         <h2><i class="fab fa-playstation"></i> Selamat Datang di Reservasi PlayStation</h2>
         
-        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8631628c-971a-4838-b4ab-2ae2cae37021/dgfsgu8-d2c1c590-b0fd-4053-9be4-272972d2577b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg2MzE2MjhjLTk3MWEtNDgzOC1iNGFiLTJhZTJjYWUzNzAyMVwvZGdmc2d1OC1kMmMxYzU5MC1iMGZkLTQwNTMtOWJlNC0yNzI5NzJkMjU3N2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.znTiy1UmhbX4lN5u7EbwGtXA-UMm_SrdEeZXJy32N8s" alt="PlayStation" class="hero-image">
+        <img src="image/logops.png" alt="PlayStation" class="hero-image">
         
         <p>Tempat terbaik untuk memesan waktu bermain PlayStation favorit Anda!</p>
         
